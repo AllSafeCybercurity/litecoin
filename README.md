@@ -1,4 +1,4 @@
-Ypbay Core integration/staging tree
+Litecoin Core integration/staging tree
 =====================================
 
 
